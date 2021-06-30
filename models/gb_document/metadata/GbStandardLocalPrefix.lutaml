@@ -10,5 +10,5 @@ class GbStandardLocalPrefix {
   }
 
   locationCode: GbLocalCodes
-  prefix: String 
+  prefix: String = "DB"
 }

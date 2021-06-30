@@ -10,6 +10,6 @@ class GbStandardEnterprisePrefix {
   }
 
   enterpriseCode: Character[3]
-  prefix: String
+  prefix: String = "Q/"
 }
 

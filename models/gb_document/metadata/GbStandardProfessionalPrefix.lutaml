@@ -9,5 +9,5 @@ class GbStandardProfessionalPrefix {
   }
 
   professionCode: GbProfessionCode
-  prefix: String
+  prefix: String = "ZB"
 }

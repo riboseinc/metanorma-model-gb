@@ -10,5 +10,5 @@ class GbStandardSocialPrefix {
   }
 
   groupCode: Character[3]
-  prefix: String
+  prefix: String = "T/"
 }
